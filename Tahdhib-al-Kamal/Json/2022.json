@@ -1,0 +1,27 @@
+{
+  "knownName": "زهير",
+  "teachers": [
+    {
+      "name": "إبراهيم",
+      "symbols": ""
+    },
+    {
+      "name": "يحيى",
+      "symbols": "(عس)"
+    },
+    {
+      "name": "عُمَير بْنِ سَعِيد",
+      "symbols": ""
+    },
+    {
+      "name": "عَلِيّ",
+      "symbols": ""
+    }
+  ],
+  "students": [
+    {
+      "name": "ابْن جُرَيْج",
+      "symbols": "(عس)"
+    }
+  ]
+}

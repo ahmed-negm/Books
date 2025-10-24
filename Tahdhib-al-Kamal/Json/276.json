@@ -1,0 +1,19 @@
+{
+  "knownName": "إبراهيم",
+  "teachers": [
+    {
+      "name": "يحيى",
+      "symbols": "(عس)"
+    }
+  ],
+  "students": [
+    {
+      "name": "زُهَيْر",
+      "symbols": ""
+    },
+    {
+      "name": "النَّسَائي",
+      "symbols": "(عس)"
+    }
+  ]
+}

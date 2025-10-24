@@ -1,0 +1,15 @@
+{
+  "knownName": "حميد المكي",
+  "teachers": [
+    {
+      "name": "عطاء",
+      "symbols": "(ت)"
+    }
+  ],
+  "students": [
+    {
+      "name": "زيد بن الحباب",
+      "symbols": "(ت)"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "knownName": "أنس القيسي",
+  "teachers": [
+    {
+      "name": "ابن عباس",
+      "symbols": "(س)"
+    }
+  ],
+  "students": [
+    {
+      "name": "أسماء بنت يزيد",
+      "symbols": ""
+    },
+    {
+      "name": "النسائي",
+      "symbols": "(س)"
+    }
+  ]
+}

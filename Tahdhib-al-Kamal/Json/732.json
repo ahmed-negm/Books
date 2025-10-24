@@ -1,0 +1,15 @@
+{
+  "knownName": "بشير",
+  "teachers": [
+    {
+      "name": "ابْن الزبير",
+      "symbols": "(ل)"
+    }
+  ],
+  "students": [
+    {
+      "name": "سفيان الثوري",
+      "symbols": "(ل)"
+    }
+  ]
+}

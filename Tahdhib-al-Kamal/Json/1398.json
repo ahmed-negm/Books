@@ -1,0 +1,27 @@
+{
+  "knownName": "حفص بن عمر القرظ",
+  "teachers": [
+    {
+      "name": "زيد بن ثابت",
+      "symbols": ""
+    },
+    {
+      "name": "أبيه",
+      "symbols": ""
+    },
+    {
+      "name": "عمومته",
+      "symbols": ""
+    },
+    {
+      "name": "أهلي",
+      "symbols": "(مد)"
+    }
+  ],
+  "students": [
+    {
+      "name": "الزُّهْرِيّ",
+      "symbols": "(مد)"
+    }
+  ]
+}
