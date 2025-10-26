@@ -1,0 +1,15 @@
+{
+  "knownName": "بشر",
+  "teachers": [
+    {
+      "name": "أنس بْن مالك",
+      "symbols": "(ت)"
+    }
+  ],
+  "students": [
+    {
+      "name": "ليث بْن أَبي سليم",
+      "symbols": "(ت)"
+    }
+  ]
+}

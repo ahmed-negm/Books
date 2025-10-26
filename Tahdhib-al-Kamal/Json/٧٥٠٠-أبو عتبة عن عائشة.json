@@ -1,0 +1,15 @@
+{
+  "knownName": "أبو عتبة",
+  "teachers": [
+    {
+      "name": "عائشة",
+      "symbols": "(س)"
+    }
+  ],
+  "students": [
+    {
+      "name": "مسعر بْن كدام",
+      "symbols": "(س)"
+    }
+  ]
+}

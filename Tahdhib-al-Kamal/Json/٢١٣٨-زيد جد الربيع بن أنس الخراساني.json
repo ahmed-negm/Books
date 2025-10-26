@@ -1,0 +1,15 @@
+{
+  "knownName": "زيد",
+  "teachers": [
+    {
+      "name": "أبي موسى الأشعري",
+      "symbols": "(د)"
+    }
+  ],
+  "students": [
+    {
+      "name": "الربيع بْن أنس",
+      "symbols": "(د)"
+    }
+  ]
+}

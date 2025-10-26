@@ -1,0 +1,67 @@
+[
+  {
+    "knownName": "ابن أم الحكم أو ضباعة ابنتي الزبير",
+    "teachers": [
+      {
+        "name": "إحداهما",
+        "symbols": ""
+      }
+    ],
+    "students": [
+      {
+        "name": "الفضل بْن موسى الضمري",
+        "symbols": "(د)"
+      }
+    ]
+  },
+  {
+    "knownName": "ابن أم هانئ",
+    "teachers": [
+      {
+        "name": "أم هانئ",
+        "symbols": "(ت س)"
+      }
+    ],
+    "students": [
+      {
+        "name": "سماك بْن حرب",
+        "symbols": "(ت س)"
+      }
+    ]
+  },
+  {
+    "knownName": "البهزي",
+    "teachers": [],
+    "students": [
+      {
+        "name": "عُمَير بن سلمة الضمري",
+        "symbols": "(س)"
+      }
+    ]
+  },
+  {
+    "knownName": "البياضي",
+    "teachers": [],
+    "students": [
+      {
+        "name": "أبو حازم التمار",
+        "symbols": "(عخ س)"
+      }
+    ]
+  },
+  {
+    "knownName": "التميمي",
+    "teachers": [
+      {
+        "name": "ابن عباس",
+        "symbols": ""
+      }
+    ],
+    "students": [
+      {
+        "name": "أبو إسحاق السبيعي",
+        "symbols": ""
+      }
+    ]
+  }
+]

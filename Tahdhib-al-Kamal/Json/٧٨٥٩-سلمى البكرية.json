@@ -1,0 +1,19 @@
+{
+  "knownName": "سلمى البكرية",
+  "teachers": [
+    {
+      "name": "عائشة",
+      "symbols": ""
+    },
+    {
+      "name": "أم سلمة",
+      "symbols": "(ت)"
+    }
+  ],
+  "students": [
+    {
+      "name": "رزين الجهني",
+      "symbols": "(ت)"
+    }
+  ]
+}

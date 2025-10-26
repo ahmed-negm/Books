@@ -1,0 +1,19 @@
+{
+  "knownName": "حكيم بن شَرِيك الكوفي",
+  "teachers": [
+    {
+      "name": "أبيه",
+      "symbols": "(بخ)"
+    }
+  ],
+  "students": [
+    {
+      "name": "صعب",
+      "symbols": "(بخ)"
+    },
+    {
+      "name": "مصعب",
+      "symbols": ""
+    }
+  ]
+}

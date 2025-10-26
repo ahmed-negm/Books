@@ -1,0 +1,51 @@
+[
+  {
+    "knownName": "ابن أَبي أوس",
+    "teachers": [
+      {
+        "name": "جده",
+        "symbols": "(ق)"
+      }
+    ],
+    "students": [
+      {
+        "name": "النعمان بْن سالم",
+        "symbols": "(ق)"
+      }
+    ]
+  },
+  {
+    "knownName": "ابن البراء بْن عازب",
+    "teachers": [
+      {
+        "name": "أبيه",
+        "symbols": ""
+      }
+    ],
+    "students": [
+      {
+        "name": "ثابت بْن عُبَيد",
+        "symbols": ""
+      }
+    ]
+  },
+  {
+    "knownName": "ابْنُ أَبي بُرْدَةَ",
+    "teachers": [
+      {
+        "name": "أَبِيهِ",
+        "symbols": ""
+      },
+      {
+        "name": "جَدِّهِ",
+        "symbols": ""
+      }
+    ],
+    "students": [
+      {
+        "name": "شعبة",
+        "symbols": "(س)"
+      }
+    ]
+  }
+]

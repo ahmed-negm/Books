@@ -1,0 +1,15 @@
+{
+  "knownName": "طلحة",
+  "teachers": [
+    {
+      "name": "أبيه",
+      "symbols": "(د)"
+    }
+  ],
+  "students": [
+    {
+      "name": "ليث بن أَبي سليم",
+      "symbols": "(د)"
+    }
+  ]
+}

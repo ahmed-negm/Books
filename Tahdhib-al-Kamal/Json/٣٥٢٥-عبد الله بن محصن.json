@@ -1,0 +1,19 @@
+{
+  "knownName": "عبد الله بن محصن",
+  "teachers": [
+    {
+      "name": "عمة لَهُ",
+      "symbols": "(س)"
+    }
+  ],
+  "students": [
+    {
+      "name": "بشير بن يسار",
+      "symbols": "(س)"
+    },
+    {
+      "name": "يحيى",
+      "symbols": ""
+    }
+  ]
+}

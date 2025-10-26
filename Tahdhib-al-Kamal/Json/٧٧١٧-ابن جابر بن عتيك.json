@@ -1,0 +1,92 @@
+[
+  {
+    "knownName": "عبد الرحمن بن جابر بن عتيك",
+    "teachers": [
+      {
+        "name": "أبيه",
+        "symbols": ""
+      }
+    ],
+    "students": [
+      {
+        "name": "مُحَمَّد بْن إِبْرَاهِيم بْن الحارث التَّيْمِيّ",
+        "symbols": ""
+      }
+    ]
+  },
+  {
+    "knownName": "نافع بن جبير بن مطعم",
+    "teachers": [
+      {
+        "name": "أبيه",
+        "symbols": ""
+      }
+    ],
+    "students": [
+      {
+        "name": "عاصم العنزي",
+        "symbols": ""
+      }
+    ]
+  },
+  {
+    "knownName": "ابن جرهد",
+    "teachers": [
+      {
+        "name": "أبيه",
+        "symbols": ""
+      }
+    ],
+    "students": [
+      {
+        "name": "أَبُو الزناد",
+        "symbols": ""
+      }
+    ]
+  },
+  {
+    "knownName": "المنذر بن جرير",
+    "teachers": [
+      {
+        "name": "أبيه",
+        "symbols": ""
+      }
+    ],
+    "students": [
+      {
+        "name": "عَبد المَلِك بْن عمير",
+        "symbols": ""
+      }
+    ]
+  },
+  {
+    "knownName": "عبيد الله بن جرير",
+    "teachers": [
+      {
+        "name": "أبيه",
+        "symbols": ""
+      }
+    ],
+    "students": [
+      {
+        "name": "أَبُو إسحاق السبيعي",
+        "symbols": ""
+      }
+    ]
+  },
+  {
+    "knownName": "محمد بن يحيى بن حبان",
+    "teachers": [
+      {
+        "name": "ابن سلام",
+        "symbols": ""
+      }
+    ],
+    "students": [
+      {
+        "name": "موسى بْن سعد",
+        "symbols": ""
+      }
+    ]
+  }
+]

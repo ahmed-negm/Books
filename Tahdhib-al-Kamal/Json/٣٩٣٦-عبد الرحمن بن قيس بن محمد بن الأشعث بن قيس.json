@@ -1,0 +1,23 @@
+{
+  "knownName": "عبد الرحمن بن قيس",
+  "teachers": [
+    {
+      "name": "أبيه",
+      "symbols": "(د)"
+    },
+    {
+      "name": "جده",
+      "symbols": ""
+    },
+    {
+      "name": "عَبد اللَّه",
+      "symbols": ""
+    }
+  ],
+  "students": [
+    {
+      "name": "أَبُو العميس",
+      "symbols": "(د)"
+    }
+  ]
+}
