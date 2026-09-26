@@ -1,2 +1,5 @@
 .obsidian
 .DS_Store
+.mobile.obsidian
+_extras/commands
+_extras/copilot-conversations
